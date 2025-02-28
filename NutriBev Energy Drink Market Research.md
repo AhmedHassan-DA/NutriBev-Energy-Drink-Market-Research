@@ -45,9 +45,9 @@ To address the challenges and achieve the business objectives, NutriBev seeks to
 - What factors influence brand loyalty in the energy drink market?  
 - How do consumers perceive NutriBev compared to competitors?
 
-### Packaging and Marketing
+### Packaging
 - What type of packaging (e.g., cans, bottles) do consumers prefer?  
-- Which marketing channels (e.g., social media, influencers) are most effective for reaching the target audience?
+
 
 ## Expected Outcomes
 

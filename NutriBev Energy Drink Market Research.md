@@ -29,24 +29,47 @@ NutriBev is planning to launch a new energy drink targeted at young adults (ages
 
 To address the challenges and achieve the business objectives, NutriBev seeks to answer the following questions:
 
-### Flavor Preferences
-- What flavors do young adults prefer in energy drinks?  
-- Are there any regional or demographic differences in flavor preferences?
+## **Flavor Preferences**
+1. What flavors do young adults prefer in energy drinks?  
+2. Are there any regional or demographic differences in flavor preferences?  
+3. How does the preference for natural ingredients (Q10) correlate with specific flavor choices (Q13)?  
+4. Do respondents who prioritize flavor variety (Q14) show a higher likelihood of trying new brands (Q20)?  
+5. **(New)** Is there a difference in flavor preferences between frequent users (Q7) and occasional users?
 
-### Pricing
-- What price range are consumers willing to pay for an energy drink?  
-- How does pricing influence purchase decisions?
+---
 
-### Consumption Habits
-- How often do young adults consume energy drinks?  
-- What are the typical occasions for consumption (e.g., during work, exercise, social events)?
+## **Pricing**
+1. What price range are consumers willing to pay for an energy drink?  
+2. How does pricing influence purchase decisions?  
+3. **(New)** Does willingness to pay (Q15) vary significantly across income levels (Q6)?  
+4. **(New)** Are respondents who value eco-friendly packaging (Q17) more willing to pay a premium price (Q15)?  
+5. **(New)** Is there a correlation between price sensitivity (Q9) and brand loyalty (Q19)?
 
-### Brand Perception
-- What factors influence brand loyalty in the energy drink market?  
-- How do consumers perceive NutriBev compared to competitors?
+---
 
-### Packaging
-- What type of packaging (e.g., cans, bottles) do consumers prefer?  
+## **Consumption Habits**
+1. How often do young adults consume energy drinks?  
+2. What are the typical occasions for consumption (e.g., during work, exercise, social events)?  
+3. Are there differences in consumption frequency (Q7) between students and working professionals (Q5)?  
+4. Do respondents who consume energy drinks during exercise (Q8) prioritize low sugar content (Q11) more than others?  
+5. Is there a relationship between consumption frequency (Q7) and willingness to try new brands (Q20)?
+
+---
+
+## **Brand Perception**
+1. What factors influence brand loyalty in the energy drink market?  
+2. How do consumers perceive NutriBev compared to competitors?  
+3. Which attributes (Q19) are most important to respondents who are loyal to specific brands?  
+4. Is there a significant difference in brand perception between urban and rural respondents (Q4)?
+
+---
+
+## **Packaging**
+1. What type of packaging (e.g., cans, bottles) do consumers prefer?  
+2. Does packaging preference (Q16) vary by age group (Q1)?  
+3. Are respondents who prioritize eco-friendly packaging (Q17) more likely to prefer cans over bottles (Q16)?  
+4. Is there a correlation between packaging preference (Q16) and consumption frequency (Q7)?  
+5. Does the importance of eco-friendly packaging (Q17) influence willingness to pay (Q15)?  
 
 
 ## Expected Outcomes

@@ -5,7 +5,7 @@
 **Company Name:** NutriBev  
 **Industry:** Food and Beverage (FMCG)  
 **Product Category:** Energy Drinks  
-**Market Presence:** NutriBev is a leading global FMCG company with a strong presence in over 50 countries. The company is known for its innovative and health-focused beverage products, including juices, flavored water, and energy drinks.
+**Market Presence:** NutriBev is a leading global FMCG company with a strong presence in North Africa. The company is known for its innovative and health-focused beverage products, including juices, flavored water, and energy drinks.
 
 ## Current Situation
 
@@ -77,4 +77,3 @@ To address the challenges and achieve the business objectives, NutriBev seeks to
 - A clear understanding of the most preferred flavors and packaging options for the new energy drink.  
 - A pricing strategy that aligns with consumer expectations and market competition.  
 - Segmented consumer profiles to guide targeted marketing campaigns.  
-- Actionable insights on how to differentiate NutriBev’s product from competitors.

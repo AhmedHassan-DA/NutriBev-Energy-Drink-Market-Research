@@ -5,7 +5,7 @@
 # Project Background
 
 **NutriBev Overview:**  
-NutriBev is a leading global FMCG company specializing in innovative and health-focused beverage products, including juices, flavored water, and energy drinks. With a strong presence in over 50 countries, the company aims to differentiate itself in the competitive energy drink market by offering unique flavors, natural ingredients, and eco-friendly packaging.
+NutriBev is a leading global FMCG company specializing in innovative and health-focused beverage products, including juices, flavored water, and energy drinks. With a strong presence in over North Afrian countries, the company aims to differentiate itself in the competitive energy drink market by offering unique flavors, natural ingredients, and eco-friendly packaging.
 
 As a data analyst at NutriBev, this project provides insights and recommendations on the following key areas:
 - **Flavor Preferences:** Understanding the most popular flavors among young adults (ages 18–35) and how preferences vary across demographics.
@@ -13,7 +13,7 @@ As a data analyst at NutriBev, this project provides insights and recommendation
 - **Consumption Habits:** Analyzing frequency and occasions of energy drink consumption.
 - **Brand Perception:** Evaluating factors influencing brand loyalty and comparing NutriBev's positioning against competitors.
 
-The SPSS syntax used for data cleaning and preparation can be found [here](link_to_SPSS_syntax). Targeted SPSS queries addressing specific business questions are available [here](link_to_business_queries). Visualizations and detailed findings are documented in the appendices.
+The final research paper can be found [here](link_to_SPSS_syntax) with visualizations and detailed findings documented in the appendices.
 
 ---
 

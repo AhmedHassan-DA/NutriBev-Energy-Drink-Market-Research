@@ -13,13 +13,14 @@ As a data analyst at NutriBev, this project provides insights and recommendation
 - **Consumption Habits:** Analyzing frequency and occasions of energy drink consumption.
 - **Brand Perception:** Evaluating factors influencing brand loyalty and comparing NutriBev's positioning against competitors.
 
-The final research paper can be found [here]([link_to_SPSS_syntax](https://github.com/AhmedHassan-DA/NutriBev-Energy-Drink-Market-Research/blob/main/5_Final_Report/Report%20-%20NutriBev%20Energy%20Drink%20Market%20Research.pdf))  
+The **final research paper** can be found [here](https://github.com/AhmedHassan-DA/NutriBev-Energy-Drink-Market-Research/blob/main/5_Final_Report/Report%20-%20NutriBev%20Energy%20Drink%20Market%20Research.pdf)  
+
 The SPSS analysis output for Flavor Preferences can be found [here](https://github.com/AhmedHassan-DA/NutriBev-Energy-Drink-Market-Research/blob/main/2_Output/1_Flavor_Preferences/1_Flavor_Preferences.pdf)  
 The SPSS analysis output for Pricing can be found [here](https://github.com/AhmedHassan-DA/NutriBev-Energy-Drink-Market-Research/blob/main/2_Output/2_Pricing/2_Pricing.pdf)  
 The SPSS analysis output for Consumption Habits can be found [here](https://github.com/AhmedHassan-DA/NutriBev-Energy-Drink-Market-Research/blob/main/2_Output/3_Consumption_Habits/3_Consumption_Habits.pdf)  
 The SPSS analysis output for Packaging can be found [here](https://github.com/AhmedHassan-DA/NutriBev-Energy-Drink-Market-Research/blob/main/2_Output/5_Packaging/5_Packaging.pdf)  
-The SPSS analysis output for BrandPerception can be found [here](https://github.com/AhmedHassan-DA/NutriBev-Energy-Drink-Market-Research/blob/main/2_Output/4_Brand_Perception/4_Brand_Perception.pdf)  
-The Survery can be found [here](https://github.com/yourusername/your-repo/blob/main/NutriBev_Report.pdf)  
+The SPSS analysis output for Brand Perception can be found [here](https://github.com/AhmedHassan-DA/NutriBev-Energy-Drink-Market-Research/blob/main/2_Output/4_Brand_Perception/4_Brand_Perception.pdf)  
+The Survery can be found [here](https://github.com/AhmedHassan-DA/NutriBev-Energy-Drink-Market-Research/blob/main/4_Documentation/Survey.pdf)  
 The raw and clean data can be found [here](https://github.com/AhmedHassan-DA/NutriBev-Energy-Drink-Market-Research/tree/main/1_Data)
 
 
@@ -37,8 +38,6 @@ The dataset consists of responses from 370 participants, structured into five ma
 - **Pricing (Q9, Q15):** Examines pricing sensitivity and willingness to pay for energy drinks.
 - **Consumption Habits (Q7–Q8):** Tracks frequency of consumption and typical occasions for drinking energy drinks.
 - **Brand Perception (Q10, Q11, Q12, Q17–Q19):** Assesses preferences for natural ingredients, low sugar content, caffeine, and attributes driving brand loyalty.
-
-[Entity Relationship Diagram here]
 
 ---
 

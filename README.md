@@ -50,7 +50,7 @@ This study identifies critical consumer preferences, behaviors, and perceptions 
 2. Consumers are willing to pay premium prices (Above EGP 25, preferred by 47.2% of respondents), especially higher-income groups.
 3. Taste (87.8%) and brand reputation (95.6%) are the primary drivers of loyalty, with eco-friendly packaging appealing to environmentally conscious buyers.
 
-[Visualization: Bar chart summarizing top flavor preferences and willingness to pay]
+![Maximum Price Per Flavor For 250ml](https://github.com/user-attachments/assets/c54ce8df-2b5a-407a-ab35-68629615bb29)
 
 ---
 
@@ -78,7 +78,7 @@ This study identifies critical consumer preferences, behaviors, and perceptions 
     - Mint preference is highest among students (41.9%) and working professionals (25.5%).
     - Cairo residents prefer Mint (34.0%) over other cities.
 
-[Visualization: Cross-tabulation of flavor preferences by demographics]
+![Flavor Preference By Age](https://github.com/user-attachments/assets/bec79aaa-a5a1-4377-a3fd-146fb135c4d8)
 
 ---
 
@@ -102,7 +102,7 @@ This study identifies critical consumer preferences, behaviors, and perceptions 
   * Supporting Analysis: 
     - Regular introduction of new flavors could drive experimentation and repeat purchases.
 
-[Visualization: Histogram of willingness to pay by income group]
+![How much are consumers willing to pay](https://github.com/user-attachments/assets/6f5d96b7-4a50-4a37-9dc6-3c6ace2c0ba4)
 
 ---
 
@@ -126,7 +126,7 @@ This study identifies critical consumer preferences, behaviors, and perceptions 
   * Supporting Analysis: 
     - Older age groups (35+) and rural residents prioritize affordability and availability over taste or health benefits.
 
-[Visualization: Pie chart of consumption frequency by occasion]
+![Consumption Frequency by Age](https://github.com/user-attachments/assets/57b2a129-f620-4e76-a3f7-6978a10527fc)
 
 ---
 
@@ -151,7 +151,7 @@ This study identifies critical consumer preferences, behaviors, and perceptions 
     - Trust is built through consistent branding, superior taste, and eco-friendly practices.
     - Competitors like Power Horse and Sting leverage health benefits and availability effectively.
 
-[Visualization: Bar chart of attributes driving brand loyalty]
+![Brand Attributes](https://github.com/user-attachments/assets/9c9777cb-5f3d-4e80-9dc5-1d082f737a3d)
 
 ---
 
@@ -176,7 +176,8 @@ This study identifies critical consumer preferences, behaviors, and perceptions 
     - Cans align with the needs of daily users (100.0%).
     - Occasional users are open to alternative packaging types.
 
-[Visualization: Crosstab of packaging preference by age group]
+ ![Prefered Packaging Type](https://github.com/user-attachments/assets/4c5737f6-10e5-4c74-92a9-7bebf2f58364)
+![Packaging Preferences by Income](https://github.com/user-attachments/assets/7dedd728-0e02-4037-a560-cb7a075e4446)
 
 ---
 

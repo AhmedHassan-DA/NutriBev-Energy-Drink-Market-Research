@@ -180,6 +180,23 @@ This study identifies critical consumer preferences, behaviors, and perceptions 
 
 ---
 
+# Segmentation Strategy
+
+Based on the findings, we propose the following segmentation strategy:
+
+| Segment Name                 | Key Characteristics                                         | Marketing Strategy |
+|------------------------------|------------------------------------------------------------|--------------------|
+| **High-Income Urban Pros**    | Age: 25–34, Income: >EGP 10,000, Preference: Tropical, Mint | Premium pricing, health-focused formulations, eco-friendly packaging, productivity messaging. |
+| **Young Urban Students**      | Age: 18–24, Income: <EGP 10,000, Preference: Citrus, Berry | Affordable pricing, productivity-enhancing flavors, digital and influencer marketing. |
+| **Rural Occasional Users**    | Age: 35+, Rural areas, Preference: Coffee, Classic flavors | Budget-friendly plastic bottles, local availability, traditional marketing channels. |
+| **Fitness Enthusiasts**       | Age: 18–34, Exercise-focused, Preference: Natural, Low Sugar | Limited-edition sports-themed flavors, partnerships with gyms and fitness events. |
+| **Social Event Drinkers**     | Age: 18–34, Female-dominated, Preference: Berry, Tropical | Stylish packaging, trendy flavors, influencer collaborations for nightlife promotion. |
+| **Brand Experimenters**       | Age: 18–34, High likelihood to try new brands, Preference: Variety | Regular introduction of new flavors, sampling programs, loyalty rewards. |
+| **Budget-Conscious Non-Users** | Age: 18–44, Rarely consume energy drinks, Preference: Classic flavors, Affordability | Entry-level products, educational campaigns, discounts and promotions. |
+
+
+---
+
 # Recommendations
 
 Based on the insights and findings, we recommend the following actions for the marketing, sales, and executive teams:
@@ -222,16 +239,6 @@ Throughout the analysis, the following assumptions and limitations were noted:
 
 4. **Assumption 4:** The survey was conducted during a single time period, capturing current market trends.  
    * Caveat:* Future changes in consumer behavior or market conditions may require updated research.
-
----
-
-# Appendices
-
-- **Appendix A:** Full SPSS outputs and statistical tables.  
-- **Appendix B:** Survey questionnaire design and screenshots.  
-- **Appendix C:** Visualizations and charts used in the analysis.  
-
-[Link to Appendices](link_to_appendices)
 
 ---
 

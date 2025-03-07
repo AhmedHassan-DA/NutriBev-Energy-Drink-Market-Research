@@ -54,7 +54,7 @@ This study identifies critical consumer preferences, behaviors, and perceptions 
 
 ---
 
-# Insights Deep Dive
+# Insights
 
 ### **Flavor Preferences**
 * **Main Insight 1:** Citrus is the most popular flavor (37.3%), favored by younger respondents (18–24) and working professionals.  
